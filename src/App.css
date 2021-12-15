@@ -32,12 +32,25 @@ a.nav-link :active {
     color: black;
     margin-right: 0.75rem;
     margin-left: 0.75rem;
+
 }
 
 
 /****************** HEADER **********************************/
 
+.logo {
+    width: auto;
+    max-width: 50%;
+    position: relative;
+    height: auto;
+    
+}
 
+.headerItem .text-center {
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
 
 /****************** **********************************/
 
